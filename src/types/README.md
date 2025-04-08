@@ -1,0 +1,3 @@
+### Aqui contem:
+
+Tipagens globais
